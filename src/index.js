@@ -7,7 +7,7 @@ import './index.css'
 const author = 'Brandon Sanderson';
 const title = 'Rhythm of War';
 const img = "https://m.media-amazon.com/images/I/61ukjVCWTfL._AC_UY545_FMwebp_QL65_.jpg"
-
+const a ="";
 function Booklist(){
     return( 
         <section className='booklist'>
