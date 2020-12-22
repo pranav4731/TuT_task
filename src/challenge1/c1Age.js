@@ -12,3 +12,8 @@ function ageInDays(){
   document.getElementById('flex-box-result').appendChild(h1);
 
 }
+
+function reset(){
+document.getElementById('ageInDays').remove();
+
+}
