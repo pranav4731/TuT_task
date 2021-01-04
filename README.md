@@ -1,12 +1,10 @@
-#updated
-Please check ourReviews folder.
-I have created random revies and quotes by people.
-A bit more style is required that I ll be doing.
-
-ourReviews folder contain js,html &css file.
-
 
 # TuT_task
+
+Creating a BlackJack Game.
+
+-----------------------------------------------------
+
 
 I have created a "Your Age in Days" application.
 Please see challenge1 files:
